@@ -1,2 +1,0 @@
-- [ ] Noch offen 
-- [x] Erledigt
